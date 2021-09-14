@@ -8,9 +8,10 @@
         <v-col class="col-md-4 col-sm-12">
           <p class="font-weight-light">
             Abubakar Sadiq or Sadiq my name and a student of a prestigious
-            university of Abubakar Tafawa Balewa University. I've experience in
-            Web design, Web Apps, Networking and Mobile development. I focus on
-            Mobile development to create a full working Android Apps that are
+            university of Abubakar Tafawa Balewa University. I've a 2 years
+            experience in Web design, Web Apps, Networking and Mobile
+            development in Lexington Technologies, Kaduna. I focus on Mobile
+            development to create a full working Android Apps that are
             accesible, performant, scalable and responsive to all type of
             android screens.
           </p>
@@ -43,7 +44,9 @@
           >
             Services:
           </h2>
-          <span class="font-weight-thin text-md-h4 text-sm-h5">What Sadeeq can offer</span>
+          <span class="font-weight-thin text-md-h4 text-sm-h5"
+            >What Sadeeq can offer</span
+          >
         </v-col>
         <v-col md4 class="hidden-sm-and-down" align="right" justify="right">
           <v-img
