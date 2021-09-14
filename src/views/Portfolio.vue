@@ -1,5 +1,5 @@
 <template>
-  <section class="portfolio custom__bg" id="portfolio" v-animate-onscroll="'animated flip'">
+  <section class="portfolio custom__bg" id="portfolio">
     <v-container>
       <h2 class="my-5 font-weight-light red--text text-md-h3 text-sm-h4">
         My Portfolio

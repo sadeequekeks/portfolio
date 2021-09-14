@@ -1,5 +1,5 @@
 <template>
-  <section class="pa-5 custom__bg mt-6" id="skills" v-animate-onscroll="'animated flip'">
+  <section class="pa-5 custom__bg mt-6" id="skills">
     <v-container>
       <v-col col-12>
         <v-row justify="space-between">
@@ -7,7 +7,7 @@
             <h2 class="my-5 font-weight-light red--text text-md-h3 text-sm-h4">
               WHAT I KNOW?
             </h2>
-          </v-col>
+          </v-col> 
           <!-- <v-col cols="4"> </v-col> -->
         </v-row>
       </v-col>

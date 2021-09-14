@@ -1,5 +1,5 @@
 <template>
-  <section class="services" id="services" v-animate-onscroll="'animated flip'">
+  <section class="services" id="services">
     <v-row>
       <v-card
         class="mx-auto"

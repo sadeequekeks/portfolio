@@ -1,5 +1,5 @@
 <template>
-  <section class="about" id="about" v-animate-onscroll="'animated flip'">
+  <section class="about" id="about">
     <v-container>
       <h2 class="my-5 font-weight-light red--text text-md-h3 text-sm-">
         ABOUT ME
