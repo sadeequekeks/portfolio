@@ -56,7 +56,7 @@ export default {
       },
       {
         client: "Faruq Ruwa",
-        comment: "You always give everything your best, and what comes out of it is spectaacular. I really appreciate your work.",
+        comment: "You always give everything your best, and what comes out of it is spectacular. I really appreciate your work.",
         company: "DSC ATBU"
       }
     ]

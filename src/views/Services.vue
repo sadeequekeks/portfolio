@@ -52,7 +52,7 @@ export default {
         icon: "mdi-cellphone",
         title: "RESPONSIVE DESIGN",
         content:
-          "Clean and mordern looking websites and web aaplications that are designed to be user friendly,responsive ( fits well on every device ) and optimized for performance with well co-ordinated workflow and best practices.",
+          "Clean and mordern looking websites and web aplications that are designed to be user friendly,responsive ( fits well on every device ) and optimized for performance with well co-ordinated workflow and best practices.",
       },
     ],
   }),
